@@ -1,4 +1,3 @@
-""" Calculadora com while """
 while True:
     n1 = input('Digite o primeiro número: ')
     n2 = input('Digite o segundo número: ')
@@ -43,7 +42,6 @@ while True:
     else:
         print("Ok, isso não era pra acontecer. Você achou um erro :/")
 
-    ###
 
     sair = input('Deseja [s]air da calculadora? ').lower().startswith('s')
 
